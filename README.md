@@ -6,4 +6,4 @@ This project implements a complete SPI slave interface connected to a single-por
 * Top-Level Integration: Connects the SPI slave to RAM for memory read/write operations.
 * Testbench: Simulates SPI transactions for write, read, and reset scenarios, with both fixed and randomized inputs.
 
-<img width="892" height="494" alt="Blank diagram" src="https://github.com/user-attachments/assets/320de3f6-cbda-46a2-b1da-ef1760feab27" />
+<img width="950" height="602" alt="SPI block diagram" src="https://github.com/user-attachments/assets/f9607304-04ad-4072-8fbc-e9ffb7012f7c" />
